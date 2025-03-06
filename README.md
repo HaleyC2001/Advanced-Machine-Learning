@@ -1,5 +1,7 @@
 # Projects 
-
+## 1. World Happiness Classification Competition
+- Random Forest Classification 
+- Deep learning 
 
 
 
